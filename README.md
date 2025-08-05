@@ -22,7 +22,7 @@ Solido ist eine lokale, auf Datenschutz ausgerichtete Anwendung zur Wissensverwa
 
 Du kannst die neueste Version von Solido direkt aus diesem Repository herunterladen.
 
-1.  Gehen zum [**Releases-Bereich**](./releases).
+1.  Gehen zum [**Releases-Bereich**](https://github.com/JustLikeMax/solido-app/releases).
 2.  Klicke auf die neueste Version (in der Regel als **"Latest"** gekennzeichnet).
 3.  Lade unter dem Punkt **Assets** die Datei `solido.exe` herunter.
 4.  Führe die heruntergeladene `.exe`-Datei aus, um die Installation zu starten.
